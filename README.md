@@ -1,4 +1,4 @@
-# Florean Alexander - Aspiring Data Scientist
+# Florean Alexander - Aspiring Data Scientist / Data Analyst
 
 👋 Hello and welcome!
 
