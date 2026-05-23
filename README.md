@@ -2,7 +2,7 @@
 
 👋 Hello and welcome!
 
-I’m Florean Alexander, a Computer Science graduate currently transitioning into the field of Data Science through the Hacktiv8 Data Science Bootcamp. Passionate about machine learning, deep learning, and data analytics, I enjoy building projects, exploring real-world datasets, and continuously learning new technologies in AI and data.
+I’m Florean Alexander, a Computer Science graduate currently transitioning into the field of Data Science through the Bootcamp. Passionate about machine learning, deep learning, and data analytics, I enjoy building projects, exploring real-world datasets, and continuously learning new technologies in AI and data.
 
 ---
 
