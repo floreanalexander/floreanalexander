@@ -1,52 +1,50 @@
-# Hi there, I'm Florean Alexander.
+# Florean Alexander - Aspiring Data Scientist
 
-📊 Aspiring Data Scientist / Data Analyst
+👋 Hello and welcome!
 
-👋 Welcome to my data science playground!  
-🚀 Currently learning machine learning, deep learning, data visualization, and data pipelines through hands-on projects and experimentation.
+I’m Florean Alexander, a Computer Science graduate currently transitioning into the field of Data Science through the Hacktiv8 Data Science Bootcamp. Passionate about machine learning, deep learning, and data analytics, I enjoy building projects, exploring real-world datasets, and continuously learning new technologies in AI and data.
 
 ---
 
 ## 🚀 About Me
 
 - 🌱 Currently learning: Machine Learning, Deep Learning, and Data Pipelines
-- 📊 Interested in: Credit Risk, Fraud Detection, Customer Analytics
-- 🛠️ Exploring tools like Python, SQL, Power BI, Airflow, and Docker
+- 📊 Interested in: Credit Risk, Fraud Detection, Customer Analytics, and AI
+- 🛠️ Exploring tools like Python, SQL, Airflow, Docker, and Streamlit
 - 💡 Passionate about transforming raw data into meaningful insights
-- 🎯 Building projects to improve my analytical and problem-solving skills
-
----
-
-## 📌 Highlight Projects
-
-### 🏦 BNPL Credit Risk System
-Developed a machine learning-based credit risk system for customer segmentation, approval prediction, and personalized credit limit recommendations.
-
-### 🔄 Customer Churn Prediction
-Built predictive models to identify customers likely to churn and analyzed key business factors affecting retention.
-
-### 🕵️ Fraud Detection Analysis
-Performed exploratory analysis and anomaly detection to identify suspicious transaction patterns.
+- 🚀 Building end-to-end data projects and machine learning applications
 
 ---
 
 ## 🛠️ Skills
 
-- **Languages:** Python, SQL
-- **Libraries/Tools:** Pandas, NumPy, Scikit-learn, Matplotlib
-- **Visualization:** Power BI, Tableau
+- **Languages:** Python, SQL, JavaScript, R
+- **Libraries/Tools:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch
+- **Visualization:** Tableau, Kibana, Matplotlib, Seaborn
 - **Machine Learning:** Classification, Clustering, Feature Engineering
-- **Workflow & Tools:** Git, Docker, Apache Airflow
-- **Other Skills:** Data Cleaning, EDA, Data Storytelling
+- **Data Engineering:** ETL Pipeline, Apache Airflow, Docker
+- **Other Skills:** Data Cleaning, EDA, Model Deployment, MLOps
+
+---
+
+## 📌 Highlight Projects
+
+### 🏦 A-Limit — BNPL Credit Risk System
+Machine learning–based BNPL credit risk system for customer segmentation, approval prediction, and personalized credit limit recommendations.
+
+### 📉 Telecommunication Customer Churn Analysis
+Built an automated ETL pipeline and interactive dashboard to analyze churn behavior and support retention strategies.
+
+### 🍜 Smart Culinary Recognition
+Deep learning computer vision project to classify Indonesian traditional foods using EfficientNet and transfer learning.
 
 ---
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: your-link
-- 📧 Email: your-email@gmail.com
+- 💼 LinkedIn: [https://linkedin.com/in/florean-alexander](https://linkedin.com/in/florean-alexander)
+- 📧 Email: alexander.florean@gmail.com
 
 ---
 
-Thanks for visiting my profile!  
-Always open to learning, collaboration, and building exciting data projects.
+Thanks for stopping by! Always open to learning, collaboration, and exciting data projects.
