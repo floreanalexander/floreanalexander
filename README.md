@@ -1,4 +1,3 @@
-```md id="0g3o2f"
 # Hi there, I'm Florean Alexander.
 
 📊 Aspiring Data Scientist / Data Analyst
@@ -51,4 +50,3 @@ Performed exploratory analysis and anomaly detection to identify suspicious tran
 
 Thanks for visiting my profile!  
 Always open to learning, collaboration, and building exciting data projects.
-```
